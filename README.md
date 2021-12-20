@@ -2,4 +2,4 @@
 
 1- [Factory Method](./FactoryMethod)
 
-2- [Abstract Factory](./AbstractFactory)
+2- [Abstract Factory Method](./AbstractFactoryMethod)
