@@ -7,3 +7,5 @@
 3- [Builder Method](./BuilderMethod)
 
 4- [Prototype Method](./PrototypeMethod)
+
+5- [Singleton Method](./SingletonMethod)

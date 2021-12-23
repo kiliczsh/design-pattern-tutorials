@@ -1,0 +1,3 @@
+﻿using SingletonMethod;
+
+SingletonClient.Test();
