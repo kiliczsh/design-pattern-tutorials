@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryMethod", "AbstractFactoryMethod\AbstractFactoryMethod.csproj", "{780321FB-2527-4DB4-AC9D-B21D741E3502}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderMethod", "BuilderMethod\BuilderMethod.csproj", "{B1BF2211-CCC5-4834-B1EC-C1B2E7DB4E3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{780321FB-2527-4DB4-AC9D-B21D741E3502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{780321FB-2527-4DB4-AC9D-B21D741E3502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{780321FB-2527-4DB4-AC9D-B21D741E3502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1BF2211-CCC5-4834-B1EC-C1B2E7DB4E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BF2211-CCC5-4834-B1EC-C1B2E7DB4E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BF2211-CCC5-4834-B1EC-C1B2E7DB4E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BF2211-CCC5-4834-B1EC-C1B2E7DB4E3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

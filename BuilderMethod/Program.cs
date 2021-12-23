@@ -1,0 +1,3 @@
+﻿using BuilderMethod;
+
+Builder.BuildNotifications();
