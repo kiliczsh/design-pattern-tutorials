@@ -11,3 +11,5 @@
 5- [Singleton Method](./SingletonMethod)
 
 6- [Adapter Method](./AdapterMethod)
+
+7- [Bridge Method](./BridgeMethod)
