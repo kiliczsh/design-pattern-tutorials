@@ -1,0 +1,3 @@
+﻿using PrototypeMethod;
+
+Prototype.Test();

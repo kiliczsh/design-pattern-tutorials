@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryMethod", "Ab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderMethod", "BuilderMethod\BuilderMethod.csproj", "{B1BF2211-CCC5-4834-B1EC-C1B2E7DB4E3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeMethod", "PrototypeMethod\PrototypeMethod.csproj", "{6F855C89-11CA-4107-BCF4-36A851710761}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{B1BF2211-CCC5-4834-B1EC-C1B2E7DB4E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1BF2211-CCC5-4834-B1EC-C1B2E7DB4E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1BF2211-CCC5-4834-B1EC-C1B2E7DB4E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F855C89-11CA-4107-BCF4-36A851710761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F855C89-11CA-4107-BCF4-36A851710761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F855C89-11CA-4107-BCF4-36A851710761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F855C89-11CA-4107-BCF4-36A851710761}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
