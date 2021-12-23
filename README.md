@@ -9,3 +9,5 @@
 4- [Prototype Method](./PrototypeMethod)
 
 5- [Singleton Method](./SingletonMethod)
+
+6- [Adapter Method](./AdapterMethod)

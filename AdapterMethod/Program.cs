@@ -1,0 +1,3 @@
+﻿using AdapterMethod;
+
+EmailClient.Test();
